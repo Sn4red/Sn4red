@@ -8,10 +8,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquin-mc-bride)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/a3RD79gP)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12218018)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://patreon.com/Sn4red)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://patreon.com/Sn4red)<br/>
 
-[![Sn4red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn4red&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://www.codewars.com/users/Sn4red/badges/large)
+![](https://www.codewars.com/users/Sn4red/badges/large)<br/>
+[![Sn4red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn4red&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # 💻 Tech Stack
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
