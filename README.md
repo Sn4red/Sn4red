@@ -10,7 +10,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12218018)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://patreon.com/Sn4red)
 
-[![Sn4red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn4red&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sn4red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn4red&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://www.codewars.com/users/Sn4red/badges/large)
 
 # 💻 Tech Stack
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
@@ -44,7 +45,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-# 📊 GitHub Stats
+# 📊 Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sn4red&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sn4red&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
