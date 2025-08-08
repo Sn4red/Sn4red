@@ -10,7 +10,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12218018)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://patreon.com/Sn4red)<br/>
 
-![](https://www.codewars.com/users/Sn4red/badges/large)<br/>
+![](https://www.codewars.com/users/Sn4red/badges/large)<br/><br/>
 [![Sn4red's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sn4red&theme=vision-friendly-dark&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
